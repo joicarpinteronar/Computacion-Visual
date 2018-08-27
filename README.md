@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Bienvenido a joicarpinteronar Pages!
 
-You can use the [editor on GitHub](https://github.com/joicarpinteronar/Computacion-Visual.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Soy Jose Ivan Carpintero
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Estudiante de Ingenieria de Sistemas y Computacion de la Universidad Nacional de Colombia, en este momento estoy cursando mi ultimo semestre en la universidad.
 
-### Markdown
+## Intereses
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cuando empece a estudiar Ingenieria de Sistemas, no sabia que rumbo especifico tomar, una vez vi una materia que se llama Sistemas de Informacion, me llamo mucho la atencion y desde ahi empece a linear mis conocimientos por esa area y mi deseo es continuar y especializarme mucho mas en esa area.
 
-```markdown
-Syntax highlighted code block
+## Proyectos
 
-# Header 1
-## Header 2
-### Header 3
+### Sistema Administrativo de un Freelance (iFreelance)
 
-- Bulleted
-- List
+Es un proyecto desarrollado en Ruby on Rails, para el curso de Ingenieria de Software II, este proyecto consiste en menejar la parte administrativa de un Freelance, donde el usuario puede llevar control de sus proyectos puede verificar el avance de estos mismos, ver el reporte de ingresos y egresos, ademas de generar reportes para manejo offline como facturas, gastos de representacion entre otros...
 
-1. Numbered
-2. List
+### Sistema para el manejo de Residuos PostConsumo (PC-UN)
 
-**Bold** and _Italic_ and `Code` text
+Es un proyecto desarrollado para el curso de Arquitectura del Software, este proyecto consiste en el manejo de residuos de Post Consumo, como residuos de Celulares, Baterias, LLantas, residuos Medicos, entre otros... Se manejan dos clientes uno Web y otro Movil, el objetivo es que el usuario una vez se conecte, pueda hacer un rastreo de que puntos mas cercanos tiene para poder ir a depositar los residuos segun el tipo de residuo.
 
-[Link](url) and ![Image](src)
-```
+## Contacto
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joicarpinteronar/Computacion-Visual.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: joicarpinteronar@unal.edu.co
